@@ -1,10 +1,9 @@
 ### Rishikesh Darandale
 
-I am full stack developer with more than 15 years of development experience. Currently I am focusing and learning more about the serverless world. I work at @SearsHomeServices.
+I am full stack developer with more than 15 years of development experience. I am passinate about code hygine, design, user interface and security. Currently I am focusing and learning more about the serverless world. I work at @SearsHomeServices.
 
 ---
-
-<p align="left">
+<p align="center">
   <a href="https://stackoverflow.com/users/8101556/rishikesh-darandale">
     <img style="padding: 10px;" alt="Rishikesh Darandale | Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/stackoverflow.svg" />
   </a>
