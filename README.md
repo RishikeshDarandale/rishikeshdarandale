@@ -1,6 +1,10 @@
 ### Rishikesh Darandale
 
-I am full stack developer with more than 15 years of development experience. I am passinate about code hygine, design, user interface and security. Currently I am focusing and learning more about the serverless world. I work at @SearsHomeServices.
+I am full stack developer with more than 16 years of development experience. Mostly, my experience is with eCommerce web applications. Also, worked with few telecom based product in early career. I love contributing to open source projects.
+
+I am passionate about code hygiene, design, user interface and security. Currently I am focusing and learning more about the serverless world.
+
+I'm a hands-on Technical Architect who has design, built and maintain software products with small, medium engineering teams, and provided guidance at all the phases of software product. I'm not only motivated to use the latest and greatest technology, but also to product success and business growth.
 
 ---
 <p align="center">
