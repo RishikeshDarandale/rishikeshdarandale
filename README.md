@@ -9,16 +9,16 @@ I'm a hands-on Technical Architect who has design, built and maintain software p
 ---
 <p align="center">
   <a href="https://stackoverflow.com/users/8101556/rishikesh-darandale">
-    <img style="padding: 10px;" alt="Rishikesh Darandale | Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/stackoverflow.svg" />
+    <img style="padding: 10px;" alt="Rishikesh Darandale | Stack Overflow" width="22" height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/stackoverflow.svg" />
   </a>
   <a href="https://twitter.com/rishidarandale">
-    <img style="padding: 10px;" alt="Rishikesh Darandale | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+    <img style="padding: 10px;" alt="Rishikesh Darandale | Twitter" width="22" height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
   <a href="https://www.linkedin.com/in/rishikeshdarandale/">
-    <img style="padding: 10px;" alt="Rishikesh Darandale | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img style="padding: 10px;" alt="Rishikesh Darandale | LinkedIn" width="22" height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   <a href="mailto:rishikesh.darandale@gmail.com">
-    <img style="padding: 10px;" alt="Rishikesh Darandale | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
+    <img style="padding: 10px;" alt="Rishikesh Darandale | Gmail" width="22" height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
   </a>
 </p>
 <!--
