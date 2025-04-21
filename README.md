@@ -1,10 +1,12 @@
 ### Rishikesh Darandale
 
-I am full stack developer with more than 19+ years of development experience. Mostly, my experience is with eCommerce web applications. Also, worked with few telecom based product in early career. I love contributing to open source projects.
+I am Rishikesh Darandale, a full-stack developer and technical architect with over 20 years of development experience. My background primarily lies in developing eCommerce web applications, and I also have experience with telecom-based products from my early career. I consider myself a quick learner and am passionate about code hygiene, design, user interface, and security. Currently, I am focusing on and learning more about the serverless world.
 
-I am passionate about code hygiene, design, user interface and security. Currently I am focusing and learning more about the serverless world.
+As a hands-on Technical Architect, I have experience in the design, building, and maintenance of software products while working with small to medium engineering teams. I have also provided guidance throughout all phases of the software product lifecycle. My motivation extends beyond utilizing the latest technologies to achieving product success and business growth.
 
-I'm a hands-on Technical Architect who has design, built and maintain software products with small, medium engineering teams, and provided guidance at all the phases of software product. I'm not only motivated to use the latest and greatest technology, but also to product success and business growth.
+I am also interested in contributing to open-source projects. You can find some of my public repositories on GitHub, including projects related to serverless GraphQL, Apollo data source for SOAP requests, AWS Lambda integration for SOAP servers, a tool to describe AWS VPC resources, and a utility to deploy static websites to S3, Lambda, etc..
+
+You can also find me on X (formerly Twitter) as @RishiDarandale and view my personal page at https://rishikeshdarandale.github.io/. I believe in learning > implementing
 
 ---
 <p align="center">
